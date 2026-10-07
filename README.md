@@ -6,7 +6,7 @@ This notebook introduces Recurrent Neural Networks (RNNs) for processing sequent
 CNN → Spatial Representation
 RNN → Sequential Representation
 
-Focus
+This notebook focuses on
 - Sequential data and the need for RNNs
 - RNN architecture
 - Hidden state
